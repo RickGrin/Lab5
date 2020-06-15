@@ -1,0 +1,4 @@
+1 AnnaKarenina 900 TolstoiLevNikolaevich
+2 TriMedvedya 80 TolstoiLevNikolaevich
+3 MasteriMargarita 700 MihailBulgakovAfanasevitch
+!
